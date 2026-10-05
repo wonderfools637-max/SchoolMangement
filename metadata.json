@@ -1,0 +1,6 @@
+{
+  "name": "NexusEdu ERP - Premium School Management System",
+  "description": "Commercial-grade enterprise school management system for student admissions, academics, fee billing, examination grading, attendance, and administrative operations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
